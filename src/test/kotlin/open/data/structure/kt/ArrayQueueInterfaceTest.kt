@@ -1,6 +1,5 @@
 package open.data.structure.kt
 
-
 import kotlin.test.Test
 import kotlin.test.assertEquals
 import kotlin.test.assertTrue

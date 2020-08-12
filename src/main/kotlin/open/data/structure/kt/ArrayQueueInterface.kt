@@ -2,12 +2,7 @@ package open.data.structure.kt
 
 import kotlin.math.max
 
-interface Queue<T> {
-    fun add(x: T): Boolean
-    fun remove(): T?
-}
-
-class ArrayQueue<T> : Queue<T> {
+class ArrayQueue<T> : QueueInterface<T> {
     private var a: Array<Any?> = arrayOfNulls(0)
     private var j: Int = 0
     private var n: Int = 0
