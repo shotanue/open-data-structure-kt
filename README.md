@@ -2,7 +2,7 @@ WIP
 Open Data Structures in Kotlin
 
 - [x] ArrayStack
-- [ ] ArrayQueue
+- [x] ArrayQueue
 - [ ] ArrayDeque
 - [ ] SLList、DLList
 - [ ] ChainedHashTable
