@@ -1,12 +1,11 @@
 package open.data.structure.kt
 
-
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
 class ArrayStackTest {
     @Test
-    fun testCRUD() {
+    fun stack() {
         val a = ArrayStack<Int?>()
         assertEquals(a.size(), 0)
 
