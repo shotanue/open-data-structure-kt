@@ -7,6 +7,6 @@ Open Data Structures in Kotlin
 - [ ] SLList、DLList
 - [ ] ChainedHashTable
 - [x] BinaryTree
-- [ ] BinarySearchTree
+- [x] BinarySearchTree
 - [ ] RedBlackTree(except 9.2.2 - 9.2.4) 
 - [ ] BinaryHeap
